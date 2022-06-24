@@ -187,5 +187,4 @@ public class AddressBookMain {
 		System.out.println("Number of People residing in " + regionName + " are: " + countPeople + "\n");
 	}
 
-
 }
